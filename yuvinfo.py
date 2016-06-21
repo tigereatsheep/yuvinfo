@@ -28,7 +28,6 @@ def parse_args():
 class YUV(object):
 
 
-
     def __init__(self, input, width, height):
         self.input = input
         self.width, self.height = width, height
